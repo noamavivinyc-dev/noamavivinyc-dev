@@ -1,41 +1,47 @@
-# Noam Aviv
+# Noam Avivi
 
-Product engineer building consumer apps and websites for local businesses.
+Founder of [Witness](https://thewitnessapp.com) and an Economics student at Amherst College, graduating December 2026. Based in New York.
 
-I design and ship full stack mobile and web products. Most of my work is in TypeScript, React Native, Next.js, and Supabase. I care about the parts users actually feel: state machines that do not lose money, interfaces that do not make groups wait, and product copy that earns trust.
+I build products from the initial problem through the interface, implementation, and launch. My work spans AI assistants, speech tools, mobile apps, and software for real businesses. I’m interested in product development, go-to-market, and the operational work that turns a prototype into something people can use.
 
-## Apps
+## AI and developer projects
 
-**Witness.** Real time eyewitness reporting. Users capture photo and video evidence, attach it to location based events, and corroborate reports from others. Built with Expo, TypeScript, Supabase, Mapbox, and a trust scoring layer. Live at [thewitnessapp.com](https://thewitnessapp.com).
+| Project | What I’m building | Status |
+| --- | --- | --- |
+| **Jarvis / local assistant** | A Mac and iPhone assistant with spoken conversation, interruptible replies, smart dictation, writing and revision tools, voice cloning, local memory, and a native iPhone keyboard. The app and reusable engine live in separate repositories. | Private prototype; Mac preview builds and iPhone source |
+| **Agent runtime** | The Python and Swift foundation behind the assistant: speech recognition, turn detection, synthesis, model adapters, document retrieval, persistent libraries, and reviewable action proposals. | Private |
+| **Organism** | A distributed intelligence and robotics research platform with shared memory, hardware adapters, local vision, and simulated navigation and control for drones, rovers, and legged bodies. Physical robot integration remains experimental. | Private research prototype |
+| **[Study Companion](https://github.com/noamavivinyc-dev/StudyCompanion)** | A Mac and iPad study copilot combining shared screen context, voice questions, course materials, hint-first tutoring, and visual guidance. Local development also includes lecture recording, transcription, search, and study guides. | Public prototype |
+| **[Busha](https://github.com/noamavivinyc-dev/Busha)** | Interview-preparation and research tools built on the open-source Cue project, with separate private workspace development. | Public fork + private work |
+| **Instagram Safe Unfollow** | A browser workflow for reviewing nonreciprocal follows, pacing actions, and checking results. | Private |
 
-**NESCHAT.** A verified, school based social feed for the NESCAC conference. Students post about cross campus events, RSVP, and coordinate rides. Built with React Native, Expo, and Firebase.
+The assistant’s speech stack integrates Parakeet, Whisper, Kokoro, Qwen, and MLX.
 
-**Kupah.** A financial operating system for group travel. The itinerary is the spine: every item carries a cost and participant list, opting in is budget consent, and a double entry ledger keeps every balance honest. Built with Next.js, TypeScript, Tailwind, Prisma, and SQLite.
+## Apps and product work
 
-**Netwrk + Atlas.** A recruiting workflow and personal CRM for finance and consulting students. Netwrk tracks deadlines, outreach, and cases during recruiting. Atlas turns that network into a post grad relationship system. Web based.
+| Project | Purpose |
+| --- | --- |
+| **[Witness](https://thewitnessapp.com)** | Event-based eyewitness reporting with photo and video evidence, location context, corroboration, and a trust system. Includes the mobile app and web experience. |
+| **NESCHAT** | A verified social app for NESCAC students, with feeds, events, groups, messages, and rides. |
+| **Kupah** | Group travel planning and shared expenses, connecting itineraries, participant choices, contributions, and settlement. |
+| **Mammoth Syllabi** | An independent Amherst syllabus archive with document parsing, verified contributions, moderation, course comparison, and schedule planning. |
+| **Physique Coach** | An early fitness-coaching web app. |
+| **Netwrk + Atlas** | Product plans for a recruiting workflow and a relationship-management system for finance and consulting students. |
 
-## Recent client sites
+Several projects are private while in development. Public descriptions cover their purpose and current scope.
 
-Local business websites built for speed, search, and conversion:
+## Client work
 
-- [A1 Towing & Auto Repair](https://a1-towing-auto.vercel.app)
-- [Cluck n' Moo NYC](https://app-six-alpha-70.vercel.app)
-- [Con Sabor a Mexico](https://con-sabor-a-mexico.vercel.app)
-- [DOMplinada](https://domplinada.vercel.app)
-- [Gringo Picapollo](https://gringo-picaapollo.vercel.app)
-- [F.A.S.T. Auto Racing](https://fast-auto-racing.vercel.app)
-- [Spoiled Brats Pet Store](https://spoiled-brats-nyc.vercel.app)
-- [St. Nick's Vinoteca](https://st-nicks-vinoteca-pitch.vercel.app)
-- [Witness marketing site](https://witness-website.vercel.app)
+I also build websites for local businesses, including automotive services, restaurants, retail, and childcare. Selected work includes A1 Towing & Auto Repair, Cluck n’ Moo, Gringo Picapollo, F.A.S.T. Auto Racing, and Spoiled Brats Pet Store.
 
-More at [noam-avivi-portfolio.vercel.app](https://noam-avivi-portfolio.vercel.app).
+[Portfolio](https://noam-avivi-portfolio.vercel.app)
 
-## Stack
+## Tools I work with
 
-TypeScript · React Native · Expo · Next.js · Tailwind CSS · Node.js · Prisma · Supabase · PostgreSQL · SQLite · Firebase · Mapbox
+**Apps:** TypeScript, JavaScript, React, React Native, Expo, Next.js, Electron, Swift  
+**AI and systems:** Python, local inference, speech pipelines, MLX, model integration  
+**Data and infrastructure:** PostgreSQL, Supabase, Firebase, Prisma, SQLite, Mapbox
 
-## Get in touch
+## Connect
 
-- Portfolio: [noam-avivi-portfolio.vercel.app](https://noam-avivi-portfolio.vercel.app)
-- LinkedIn: [linkedin.com/in/noam-avivi-79a99b220](https://www.linkedin.com/in/noam-avivi-79a99b220/)
-- Email: [noamavivi.nyc@gmail.com](mailto:noamavivi.nyc@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/noam-avivi-79a99b220/) · [Email](mailto:noamavivi.nyc@gmail.com) · [Witness](https://thewitnessapp.com)
